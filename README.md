@@ -389,31 +389,6 @@ func main() {
 
 </div>
 
----
-
-<h2 align="center">🐍 Contribution Activity</h2>
-
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/azmiagr/azmiagr/output/github-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/azmiagr/azmiagr/output/github-snake.svg"
-  />
-  <img
-    alt="GitHub contribution snake"
-    src="https://raw.githubusercontent.com/azmiagr/azmiagr/output/github-snake-dark.svg"
-  />
-</picture>
-
-</div>
-
----
-
 <h2 align="center">🤝 Let's Connect</h2>
 
 <div align="center">
