@@ -444,6 +444,6 @@ func main() {
 
 <br/>
 
-⭐ From [Azmi Agriawan](https://github.com/azmiagr)
+⭐ From [Azmi Al Ghifari Rahman](https://github.com/azmiagr)
 
 </div>
