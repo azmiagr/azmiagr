@@ -2,7 +2,7 @@
 
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=800&height=70&lines=Hi%2C+I'm+Azmi+Agriawan+%F0%9F%91%8B;Backend+Developer;Golang+%7C+Gin+%7C+Laravel;Building+Reliable+Backend+Systems"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=800&height=70&lines=Hi%2C+I'm+Azmi+Al+Ghifari+Rahman+%F0%9F%91%8B;Backend+Developer;Golang+%7C+Gin+%7C+Laravel;Building+Reliable+Backend+Systems"
     alt="Typing SVG"
   />
 </a>
@@ -68,7 +68,7 @@ type Developer struct {
 
 func main() {
 	me := Developer{
-		Name: "Azmi Agriawan",
+		Name: "Azmi Al Ghifari Rahman",
 		Role: "Backend Developer",
 		Focus: []string{
 			"Backend Engineering",
