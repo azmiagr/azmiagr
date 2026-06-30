@@ -364,12 +364,6 @@ func main() {
 
 <img
   height="170"
-  src="https://github-readme-stats.vercel.app/api?username=azmiagr&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&include_all_commits=true"
-  alt="Azmi's GitHub Stats"
-/>
-
-<img
-  height="170"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=azmiagr&layout=compact&hide_border=true&theme=github_dark&langs_count=8"
   alt="Azmi's Top Languages"
 />
