@@ -1,0 +1,99 @@
+{
+  "languages": [
+    {
+      "bytes": 2708571,
+      "name": "Go",
+      "percentage": 74.47,
+      "repos": 16
+    },
+    {
+      "bytes": 274115,
+      "name": "PHP",
+      "percentage": 7.54,
+      "repos": 2
+    },
+    {
+      "bytes": 221512,
+      "name": "HTML",
+      "percentage": 6.09,
+      "repos": 4
+    },
+    {
+      "bytes": 202591,
+      "name": "Vue",
+      "percentage": 5.57,
+      "repos": 1
+    },
+    {
+      "bytes": 74198,
+      "name": "Blade",
+      "percentage": 2.04,
+      "repos": 2
+    },
+    {
+      "bytes": 68626,
+      "name": "Python",
+      "percentage": 1.89,
+      "repos": 1
+    },
+    {
+      "bytes": 58906,
+      "name": "Kotlin",
+      "percentage": 1.62,
+      "repos": 2
+    },
+    {
+      "bytes": 16604,
+      "name": "TypeScript",
+      "percentage": 0.46,
+      "repos": 1
+    },
+    {
+      "bytes": 7268,
+      "name": "CSS",
+      "percentage": 0.2,
+      "repos": 3
+    },
+    {
+      "bytes": 1401,
+      "name": "Dockerfile",
+      "percentage": 0.04,
+      "repos": 4
+    },
+    {
+      "bytes": 1039,
+      "name": "JavaScript",
+      "percentage": 0.03,
+      "repos": 2
+    },
+    {
+      "bytes": 823,
+      "name": "Shell",
+      "percentage": 0.02,
+      "repos": 2
+    },
+    {
+      "bytes": 704,
+      "name": "Mako",
+      "percentage": 0.02,
+      "repos": 1
+    },
+    {
+      "bytes": 670,
+      "name": "Makefile",
+      "percentage": 0.02,
+      "repos": 5
+    },
+    {
+      "bytes": 46,
+      "name": "Procfile",
+      "percentage": 0.0,
+      "repos": 1
+    }
+  ],
+  "repository_count": 25,
+  "source": "https://api.github.com/users/azmiagr/repos",
+  "total_bytes": 3637074,
+  "updated_on": "2026-07-27",
+  "username": "azmiagr"
+}

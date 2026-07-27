@@ -1,0 +1,50 @@
+name: Profile Insights
+
+on:
+  schedule:
+    - cron: "17 23 * * *"
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  contribution-map:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install script dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Collect public contribution data
+        env:
+          GH_PROFILE_USER: azmiagr
+        run: python scripts/collect_github_contributions.py
+
+      - name: Collect public language data
+        env:
+          GH_PROFILE_USER: azmiagr
+          GITHUB_TOKEN: ${{ github.token }}
+        run: python scripts/collect_github_languages.py
+
+      - name: Render contribution map
+        run: python scripts/render_contribution_map.py
+
+      - name: Render language summary
+        run: python scripts/render_language_summary.py
+
+      - name: Commit profile insight assets
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore(profile): update contribution insights [skip ci]"
+          file_pattern: "data/github-contributions.json data/github-languages.json assets/github-contribution-map.svg assets/github-language-summary.svg"
