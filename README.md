@@ -2,7 +2,7 @@
 
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&height=74&lines=Azmi+Al+Ghifari+Rahman;Backend+Developer;Golang+%7C+Gin+%7C+Laravel;Designing+APIs%2C+databases%2C+and+reliable+services"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&height=74&lines=Azmi+Al+Ghifari+Rahman;Backend+Developer;Golang+%7C+Gin+%7C+Laravel;Reliable+APIs+and+backend+systems"
     alt="Typing introduction for Azmi Al Ghifari Rahman"
   />
 </a>
