@@ -7,12 +7,12 @@
   <text x="24" y="38" fill="#f0f6fc" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700">Language Summary</text>
 
   <text x="564" y="34" fill="#58a6ff" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">Go</text>
-  <text x="564" y="55" fill="#8b949e" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11">top language (74.1%)</text>
+  <text x="564" y="55" fill="#8b949e" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11">top language (74.2%)</text>
 
   <text x="24" y="88" fill="#f0f6fc" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="600">Go</text>
   <rect x="176" y="78" width="360" height="9" rx="4.5" fill="#161b22"/>
   <rect x="176" y="78" width="360" height="9" rx="4.5" fill="#00add8"/>
-  <text x="564" y="88" fill="#8b949e" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11">74.1%</text>
+  <text x="564" y="88" fill="#8b949e" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11">74.2%</text>
   <text x="24" y="113" fill="#f0f6fc" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="600">PHP</text>
   <rect x="176" y="103" width="360" height="9" rx="4.5" fill="#161b22"/>
   <rect x="176" y="103" width="36" height="9" rx="4.5" fill="#f05138"/>
@@ -20,14 +20,14 @@
   <text x="24" y="138" fill="#f0f6fc" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="600">HTML</text>
   <rect x="176" y="128" width="360" height="9" rx="4.5" fill="#161b22"/>
   <rect x="176" y="128" width="29" height="9" rx="4.5" fill="#7f52ff"/>
-  <text x="564" y="138" fill="#8b949e" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11">6.1%</text>
+  <text x="564" y="138" fill="#8b949e" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11">6.0%</text>
   <text x="24" y="163" fill="#f0f6fc" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="600">Vue</text>
   <rect x="176" y="153" width="360" height="9" rx="4.5" fill="#161b22"/>
   <rect x="176" y="153" width="27" height="9" rx="4.5" fill="#777bb4"/>
   <text x="564" y="163" fill="#8b949e" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11">5.5%</text>
   <text x="24" y="188" fill="#f0f6fc" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="600">Python</text>
   <rect x="176" y="178" width="360" height="9" rx="4.5" fill="#161b22"/>
-  <rect x="176" y="178" width="12" height="9" rx="4.5" fill="#41b883"/>
+  <rect x="176" y="178" width="11" height="9" rx="4.5" fill="#41b883"/>
   <text x="564" y="188" fill="#8b949e" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11">2.4%</text>
   <text x="24" y="213" fill="#f0f6fc" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="600">Blade</text>
   <rect x="176" y="203" width="360" height="9" rx="4.5" fill="#161b22"/>

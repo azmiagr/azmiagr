@@ -1,45 +1,45 @@
 {
   "languages": [
     {
-      "bytes": 2708571,
+      "bytes": 2727545,
       "name": "Go",
-      "percentage": 74.1,
-      "repos": 16
+      "percentage": 74.23,
+      "repos": 17
     },
     {
       "bytes": 274115,
       "name": "PHP",
-      "percentage": 7.5,
+      "percentage": 7.46,
       "repos": 2
     },
     {
       "bytes": 221512,
       "name": "HTML",
-      "percentage": 6.06,
+      "percentage": 6.03,
       "repos": 4
     },
     {
       "bytes": 202591,
       "name": "Vue",
-      "percentage": 5.54,
+      "percentage": 5.51,
       "repos": 1
     },
     {
       "bytes": 87034,
       "name": "Python",
-      "percentage": 2.38,
+      "percentage": 2.37,
       "repos": 2
     },
     {
       "bytes": 74198,
       "name": "Blade",
-      "percentage": 2.03,
+      "percentage": 2.02,
       "repos": 2
     },
     {
       "bytes": 58906,
       "name": "Kotlin",
-      "percentage": 1.61,
+      "percentage": 1.6,
       "repos": 2
     },
     {
@@ -73,16 +73,16 @@
       "repos": 2
     },
     {
+      "bytes": 804,
+      "name": "Makefile",
+      "percentage": 0.02,
+      "repos": 6
+    },
+    {
       "bytes": 704,
       "name": "Mako",
       "percentage": 0.02,
       "repos": 1
-    },
-    {
-      "bytes": 670,
-      "name": "Makefile",
-      "percentage": 0.02,
-      "repos": 5
     },
     {
       "bytes": 46,
@@ -91,9 +91,9 @@
       "repos": 1
     }
   ],
-  "repository_count": 25,
+  "repository_count": 26,
   "source": "https://api.github.com/users/azmiagr/repos",
-  "total_bytes": 3655482,
-  "updated_on": "2026-08-04",
+  "total_bytes": 3674590,
+  "updated_on": "2026-08-05",
   "username": "azmiagr"
 }
