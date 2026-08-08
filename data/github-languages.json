@@ -1,75 +1,75 @@
 {
   "languages": [
     {
-      "bytes": 2744496,
+      "bytes": 2799453,
       "name": "Go",
-      "percentage": 74.22,
+      "percentage": 74.56,
       "repos": 17
     },
     {
       "bytes": 274115,
       "name": "PHP",
-      "percentage": 7.41,
+      "percentage": 7.3,
       "repos": 2
     },
     {
-      "bytes": 227688,
+      "bytes": 228475,
       "name": "HTML",
-      "percentage": 6.16,
+      "percentage": 6.09,
       "repos": 5
     },
     {
       "bytes": 202591,
       "name": "Vue",
-      "percentage": 5.48,
+      "percentage": 5.4,
       "repos": 1
     },
     {
       "bytes": 87034,
       "name": "Python",
-      "percentage": 2.35,
+      "percentage": 2.32,
       "repos": 2
     },
     {
       "bytes": 74198,
       "name": "Blade",
-      "percentage": 2.01,
+      "percentage": 1.98,
       "repos": 2
     },
     {
       "bytes": 58906,
       "name": "Kotlin",
-      "percentage": 1.59,
+      "percentage": 1.57,
       "repos": 2
     },
     {
       "bytes": 16604,
       "name": "TypeScript",
-      "percentage": 0.45,
+      "percentage": 0.44,
       "repos": 1
     },
     {
       "bytes": 7268,
       "name": "CSS",
-      "percentage": 0.2,
+      "percentage": 0.19,
       "repos": 3
     },
     {
-      "bytes": 1401,
+      "bytes": 1817,
       "name": "Dockerfile",
+      "percentage": 0.05,
+      "repos": 5
+    },
+    {
+      "bytes": 1589,
+      "name": "Shell",
       "percentage": 0.04,
-      "repos": 4
+      "repos": 3
     },
     {
       "bytes": 1039,
       "name": "JavaScript",
       "percentage": 0.03,
-      "repos": 2
-    },
-    {
-      "bytes": 823,
-      "name": "Shell",
-      "percentage": 0.02,
       "repos": 2
     },
     {
@@ -93,7 +93,7 @@
   ],
   "repository_count": 26,
   "source": "https://api.github.com/users/azmiagr/repos",
-  "total_bytes": 3697717,
-  "updated_on": "2026-08-07",
+  "total_bytes": 3754643,
+  "updated_on": "2026-08-08",
   "username": "azmiagr"
 }
