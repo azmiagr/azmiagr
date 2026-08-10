@@ -1,57 +1,57 @@
 {
   "languages": [
     {
-      "bytes": 2926373,
+      "bytes": 3017878,
       "name": "Go",
-      "percentage": 75.39,
+      "percentage": 75.96,
       "repos": 17
     },
     {
       "bytes": 274115,
       "name": "PHP",
-      "percentage": 7.06,
+      "percentage": 6.9,
       "repos": 2
     },
     {
       "bytes": 228475,
       "name": "HTML",
-      "percentage": 5.89,
+      "percentage": 5.75,
       "repos": 5
     },
     {
       "bytes": 202591,
       "name": "Vue",
-      "percentage": 5.22,
+      "percentage": 5.1,
       "repos": 1
     },
     {
       "bytes": 87034,
       "name": "Python",
-      "percentage": 2.24,
+      "percentage": 2.19,
       "repos": 2
     },
     {
       "bytes": 74198,
       "name": "Blade",
-      "percentage": 1.91,
+      "percentage": 1.87,
       "repos": 2
     },
     {
       "bytes": 58906,
       "name": "Kotlin",
-      "percentage": 1.52,
+      "percentage": 1.48,
       "repos": 2
     },
     {
       "bytes": 16604,
       "name": "TypeScript",
-      "percentage": 0.43,
+      "percentage": 0.42,
       "repos": 1
     },
     {
       "bytes": 7268,
       "name": "CSS",
-      "percentage": 0.19,
+      "percentage": 0.18,
       "repos": 3
     },
     {
@@ -93,7 +93,7 @@
   ],
   "repository_count": 26,
   "source": "https://api.github.com/users/azmiagr/repos",
-  "total_bytes": 3881563,
-  "updated_on": "2026-08-09",
+  "total_bytes": 3973068,
+  "updated_on": "2026-08-10",
   "username": "azmiagr"
 }
