@@ -1,57 +1,57 @@
 {
   "languages": [
     {
-      "bytes": 3192809,
+      "bytes": 3281570,
       "name": "Go",
-      "percentage": 76.97,
+      "percentage": 77.45,
       "repos": 17
     },
     {
       "bytes": 274115,
       "name": "PHP",
-      "percentage": 6.61,
+      "percentage": 6.47,
       "repos": 2
     },
     {
       "bytes": 228475,
       "name": "HTML",
-      "percentage": 5.51,
+      "percentage": 5.39,
       "repos": 5
     },
     {
       "bytes": 202591,
       "name": "Vue",
-      "percentage": 4.88,
+      "percentage": 4.78,
       "repos": 1
     },
     {
       "bytes": 87034,
       "name": "Python",
-      "percentage": 2.1,
+      "percentage": 2.05,
       "repos": 2
     },
     {
       "bytes": 74198,
       "name": "Blade",
-      "percentage": 1.79,
+      "percentage": 1.75,
       "repos": 2
     },
     {
       "bytes": 58906,
       "name": "Kotlin",
-      "percentage": 1.42,
+      "percentage": 1.39,
       "repos": 2
     },
     {
       "bytes": 16604,
       "name": "TypeScript",
-      "percentage": 0.4,
+      "percentage": 0.39,
       "repos": 1
     },
     {
       "bytes": 7268,
       "name": "CSS",
-      "percentage": 0.18,
+      "percentage": 0.17,
       "repos": 3
     },
     {
@@ -69,7 +69,7 @@
     {
       "bytes": 1039,
       "name": "JavaScript",
-      "percentage": 0.03,
+      "percentage": 0.02,
       "repos": 2
     },
     {
@@ -93,7 +93,7 @@
   ],
   "repository_count": 26,
   "source": "https://api.github.com/users/azmiagr/repos",
-  "total_bytes": 4147999,
-  "updated_on": "2026-08-12",
+  "total_bytes": 4236760,
+  "updated_on": "2026-08-13",
   "username": "azmiagr"
 }
