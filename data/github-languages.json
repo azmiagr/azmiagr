@@ -1,7 +1,7 @@
 {
   "languages": [
     {
-      "bytes": 3569758,
+      "bytes": 3572161,
       "name": "Go",
       "percentage": 78.89,
       "repos": 17
@@ -9,7 +9,7 @@
     {
       "bytes": 274115,
       "name": "PHP",
-      "percentage": 6.06,
+      "percentage": 6.05,
       "repos": 2
     },
     {
@@ -21,7 +21,7 @@
     {
       "bytes": 202591,
       "name": "Vue",
-      "percentage": 4.48,
+      "percentage": 4.47,
       "repos": 1
     },
     {
@@ -55,16 +55,16 @@
       "repos": 3
     },
     {
-      "bytes": 1817,
+      "bytes": 2315,
+      "name": "Shell",
+      "percentage": 0.05,
+      "repos": 3
+    },
+    {
+      "bytes": 1926,
       "name": "Dockerfile",
       "percentage": 0.04,
       "repos": 5
-    },
-    {
-      "bytes": 1589,
-      "name": "Shell",
-      "percentage": 0.04,
-      "repos": 3
     },
     {
       "bytes": 1039,
@@ -73,7 +73,7 @@
       "repos": 2
     },
     {
-      "bytes": 804,
+      "bytes": 805,
       "name": "Makefile",
       "percentage": 0.02,
       "repos": 6
@@ -93,7 +93,7 @@
   ],
   "repository_count": 26,
   "source": "https://api.github.com/users/azmiagr/repos",
-  "total_bytes": 4524948,
-  "updated_on": "2026-08-15",
+  "total_bytes": 4528187,
+  "updated_on": "2026-08-16",
   "username": "azmiagr"
 }
