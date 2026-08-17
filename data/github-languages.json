@@ -1,9 +1,9 @@
 {
   "languages": [
     {
-      "bytes": 3572161,
+      "bytes": 3576261,
       "name": "Go",
-      "percentage": 78.89,
+      "percentage": 78.91,
       "repos": 17
     },
     {
@@ -15,7 +15,7 @@
     {
       "bytes": 228475,
       "name": "HTML",
-      "percentage": 5.05,
+      "percentage": 5.04,
       "repos": 5
     },
     {
@@ -93,7 +93,7 @@
   ],
   "repository_count": 26,
   "source": "https://api.github.com/users/azmiagr/repos",
-  "total_bytes": 4528187,
-  "updated_on": "2026-08-16",
+  "total_bytes": 4532287,
+  "updated_on": "2026-08-17",
   "username": "azmiagr"
 }
