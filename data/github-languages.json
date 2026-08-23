@@ -1,15 +1,15 @@
 {
   "languages": [
     {
-      "bytes": 3721770,
+      "bytes": 3722892,
       "name": "Go",
-      "percentage": 79.37,
+      "percentage": 79.38,
       "repos": 18
     },
     {
       "bytes": 274115,
       "name": "PHP",
-      "percentage": 5.85,
+      "percentage": 5.84,
       "repos": 2
     },
     {
@@ -51,7 +51,7 @@
     {
       "bytes": 7268,
       "name": "CSS",
-      "percentage": 0.16,
+      "percentage": 0.15,
       "repos": 3
     },
     {
@@ -93,7 +93,7 @@
   ],
   "repository_count": 27,
   "source": "https://api.github.com/users/azmiagr/repos",
-  "total_bytes": 4688994,
-  "updated_on": "2026-08-22",
+  "total_bytes": 4690116,
+  "updated_on": "2026-08-23",
   "username": "azmiagr"
 }

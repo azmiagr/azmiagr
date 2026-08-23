@@ -2,41 +2,6 @@
   "days": [
     {
       "count": 0,
-      "date": "2025-08-17",
-      "level": 0
-    },
-    {
-      "count": 0,
-      "date": "2025-08-18",
-      "level": 0
-    },
-    {
-      "count": 0,
-      "date": "2025-08-19",
-      "level": 0
-    },
-    {
-      "count": 0,
-      "date": "2025-08-20",
-      "level": 0
-    },
-    {
-      "count": 0,
-      "date": "2025-08-21",
-      "level": 0
-    },
-    {
-      "count": 0,
-      "date": "2025-08-22",
-      "level": 0
-    },
-    {
-      "count": 0,
-      "date": "2025-08-23",
-      "level": 0
-    },
-    {
-      "count": 0,
       "date": "2025-08-24",
       "level": 0
     },
@@ -1851,17 +1816,22 @@
       "level": 1
     },
     {
-      "count": 20,
+      "count": 21,
       "date": "2026-08-22",
+      "level": 1
+    },
+    {
+      "count": 1,
+      "date": "2026-08-23",
       "level": 1
     }
   ],
   "range": {
-    "from": "2025-08-17",
-    "to": "2026-08-22"
+    "from": "2025-08-24",
+    "to": "2026-08-23"
   },
   "source": "https://github.com/users/azmiagr/contributions",
-  "total": 3375,
-  "updated_on": "2026-08-22",
+  "total": 3377,
+  "updated_on": "2026-08-23",
   "username": "azmiagr"
 }
